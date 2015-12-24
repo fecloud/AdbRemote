@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">远程调试</string>
+    <string name="open_adb">打开远程调试</string>
+    <string name="get_su_ok">成功获取root权限</string>
+    <string name="get_su_fail">获取root权限失败</string>
+    <string name="settings_wifi_debug">设置远程调试参数</string>
+    <string name="stop_adbd">停止远程调试</string>
+    <string name="start_adbd">启动远程调试</string>
+    <string name="finish">完毕</string>
+    
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RemoteDebug</string>
+    <string name="open_adb">open remote debug</string>
+    <string name="get_su_ok">get root success</string>
+    <string name="get_su_fail">get root fail</string>
+    <string name="settings_wifi_debug">setting debug args </string>
+    <string name="stop_adbd">stop service</string>
+    <string name="start_adbd">start service</string>
+     <string name="finish">done</string>
+    
+</resources>
