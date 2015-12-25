@@ -8,6 +8,7 @@
     <string name="settings_wifi_debug">setting debug args </string>
     <string name="stop_adbd">stop service</string>
     <string name="start_adbd">start service</string>
-     <string name="finish">done</string>
+    <string name="finish">done</string>
+    <string name="openwifi">please open WIFI and connect it</string>
     
 </resources>

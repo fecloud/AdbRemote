@@ -10,9 +10,18 @@
         android:layout_height="wrap_content"
         android:text="@string/open_adb" />
 
-    <TextView android:layout_marginLeft="5dp" android:layout_marginRight="15dp"
+    <TextView
+        android:id="@+id/ip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="15dp" />
+
+    <TextView
         android:id="@+id/textView"
         android:layout_width="fill_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="15dp" />
 
 </LinearLayout>
